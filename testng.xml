@@ -1,0 +1,12 @@
+<suite name="AutomationAnywhereTests">
+<test name="RequestDemoTest">
+<classes>
+<class name="RequestDemoTest"/>
+</classes>
+</test>
+<test name="ProductNavigationTest">
+<classes>
+<class name="ProductNavigationTest"/>
+</classes>
+</test>
+</suite>
